@@ -11,7 +11,7 @@ public class Main extends JFrame {
 
     public Main() {
         // Set up the frame
-        setTitle("Simple Notepad");
+        setTitle("Text Editor");
         setSize(600, 500);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
 
